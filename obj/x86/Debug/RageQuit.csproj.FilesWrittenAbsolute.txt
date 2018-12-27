@@ -1,0 +1,5 @@
+/home/stilyssk/CSharp/RageQuit/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/stilyssk/CSharp/RageQuit/bin/Debug/RageQuit.exe.mdb
+/home/stilyssk/CSharp/RageQuit/bin/Debug/RageQuit.exe
+/home/stilyssk/CSharp/RageQuit/obj/x86/Debug/RageQuit.exe
+/home/stilyssk/CSharp/RageQuit/obj/x86/Debug/RageQuit.exe.mdb
